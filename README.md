@@ -5,7 +5,7 @@ Aplicación de recomendación de productos basada en similitud visual. Dado una 
 ## Requisitos
 
 - Python >= 3.9
-- CPU (no requiere GPU)
+- CPU
 
 ## Instalación
 
