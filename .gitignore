@@ -6,6 +6,3 @@ __pycache__/
 
 # Pesos del modelo descargados automáticamente por Keras
 ~/.keras/
-
-# Imágenes del catálogo (se agregan manualmente al repositorio o se excluyen según preferencia)
-# catalog/images/
